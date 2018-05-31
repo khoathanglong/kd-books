@@ -1,0 +1,11 @@
+.btn-primary {
+	margin-left: 10px;
+}
+.form-group{
+	margin-bottom:0;
+}
+@media screen and (max-width: 575px){
+	.btn-primary{
+		margin-bottom: 16px;
+	}
+}

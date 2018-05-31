@@ -1,0 +1,1 @@
+//accept Book will trigger both addBook and removeBook
